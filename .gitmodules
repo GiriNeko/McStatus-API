@@ -1,3 +1,3 @@
-[submodule "McStatus-Bot"]
-	path = McStatus-Bot
+[submodule "mcstatus_img"]
+	path = mcstatus_img
 	url = https://github.com/Murasame-Dev/McStatus-Bot
