@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 [submodule "mcstatus_img"]
 	path = mcstatus_img
+=======
+[submodule "McStatus-Bot"]
+	path = McStatus-Bot
+>>>>>>> 228141febc3755556b5a7b5ebca59a3b1c9596f7
 	url = https://github.com/Murasame-Dev/McStatus-Bot
