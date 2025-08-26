@@ -106,7 +106,7 @@ def get_status_image():
         background_data = None
     motd_list = data['motd'].split("\n")
     text_list = [
-        f"ip: {data["ip"]}",
+        f"ip: {data['ip']}",
         f"type: {data['type']}",
         f"version: {data['version']}",
         f"latency: {data['latency']} ms",
